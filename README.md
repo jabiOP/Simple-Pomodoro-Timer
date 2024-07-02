@@ -8,10 +8,10 @@ pomodoro.py [-h] [--preset {short,medium,long}] [--work WORK\_TIME] [--break BRE
 
 ## Flags / Options
 
-  -h, --help            show this help message and exit
-  --preset {short,medium,long}, -p {short,medium,long}
-                        Choose preset time configuration
-  --work WORK\_TIME, -w WORK\_TIME
-                        Custom work time in minutes
-  --break BREAK\_TIME, -b BREAK\_TIME
-                        Custom break time in minutes
+  -h, --help                Show this help message and exit
+
+  --preset {short,medium,long}, -p {short,medium,long}          Choose preset time configuration
+
+  --work WORK\_TIME, -w WORK\_TIME          Custom work time in minutes
+
+  --break BREAK\_TIME, -b BREAK\_TIME       Custom break time in minutes
